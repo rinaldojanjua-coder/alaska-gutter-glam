@@ -68,7 +68,7 @@ const Hero = () => {
             <div className="flex flex-col sm:flex-row gap-4">
               <Button 
                 size="lg" 
-                className="btn-hero text-lg px-8 py-6 bg-white text-primary hover:bg-white/90 hover:scale-105 transition-all duration-300"
+                className="btn-hero text-lg px-8 py-6 bg-white/10 text-white hover:bg-white/20 hover:scale-105 transition-all duration-300 border border-white/30"
                 asChild
               >
                 <Link to="/contact">
