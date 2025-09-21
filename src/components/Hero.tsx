@@ -143,13 +143,6 @@ const Hero = () => {
         </div>
       </div>
 
-      {/* Floating Action Elements */}
-      <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 z-10 animate-bounce">
-        <div className="text-white/60 text-center">
-          <p className="text-sm mb-2">See If We Serve Your Neighborhood</p>
-          <div className="w-6 h-6 border-2 border-white/60 rounded-full mx-auto"></div>
-        </div>
-      </div>
     </section>
   );
 };
