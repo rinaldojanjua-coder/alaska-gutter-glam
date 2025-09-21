@@ -79,7 +79,7 @@ const Hero = () => {
               <Button 
                 size="lg" 
                 variant="outline"
-                className="text-lg px-8 py-6 border-2 border-white text-white hover:bg-white hover:text-primary transition-all duration-300"
+                className="text-lg px-8 py-6 border-2 border-white text-primary bg-white hover:bg-white/90 hover:text-primary transition-all duration-300"
                 asChild
               >
                 <Link to="tel:9075990123">
