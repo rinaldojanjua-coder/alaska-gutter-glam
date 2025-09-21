@@ -23,7 +23,7 @@ const Hero = () => {
       <div className="relative z-10 w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           {/* Left Column - Hero Text */}
-          <div className="text-white space-y-8 slide-up">
+          <div className="text-white space-y-8 slide-up -ml-4">
             <div className="space-y-4">
               <Badge className="bg-white/20 text-white border-white/30 hover:bg-white/30">
                 <Award className="h-4 w-4 mr-2" />
