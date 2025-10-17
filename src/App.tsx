@@ -8,7 +8,16 @@ import Services from "./pages/Services";
 import Blog from "./pages/Blog";
 import Contact from "./pages/Contact";
 import GutterCleaning from "./pages/services/GutterCleaning";
+import GutterGuards from "./pages/services/GutterGuards";
+import RoofCleaning from "./pages/services/RoofCleaning";
+import MossRemoval from "./pages/services/MossRemoval";
+import SoftWash from "./pages/services/SoftWash";
 import Anchorage from "./pages/service-areas/Anchorage";
+import EagleRiver from "./pages/service-areas/EagleRiver";
+import Girdwood from "./pages/service-areas/Girdwood";
+import Chugiak from "./pages/service-areas/Chugiak";
+import Palmer from "./pages/service-areas/Palmer";
+import Wasilla from "./pages/service-areas/Wasilla";
 import NotFound from "./pages/NotFound";
 
 const queryClient = new QueryClient();
